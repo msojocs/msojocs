@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jiye's github stats](https://github-readme-stats.vercel.app/api?username=msojocs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])](https://github.com/msojocs/msojocs)
+[![Jiye's github stats](https://github-stats-extended.vercel.app/api?username=msojocs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])](https://github.com/msojocs/msojocs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msojocs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msojocs/msojocs)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=msojocs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msojocs/msojocs)
 
